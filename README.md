@@ -1,6 +1,6 @@
 # Hi! My name is Gautham Pandian
 
-## I am a highly motivated programmer currently enrolled in the UC Davis College of Engineering. I am seeking an internship as a full-stack developer working with the MERN Stack. With a strong background in computer science and a proven ability to work collaboratively, I am confident in my ability to deliver scalable solutions and I am committed to staying up-to-date with the latest technologies while furthering my skills in the industry.
+#### I am a highly motivated programmer currently enrolled in the UC Davis College of Engineering. I am seeking an internship as a full-stack developer working with the MERN Stack. With a strong background in computer science and a proven ability to work collaboratively, I am confident in my ability to deliver scalable solutions and I am committed to staying up-to-date with the latest technologies while furthering my skills in the industry.
 
 [LinkedIn Profile](https://www.linkedin.com/in/gautham-pandian/)
 
